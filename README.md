@@ -202,3 +202,6 @@ This repository serves as the official landing page for Ace Combat 8: Wings of T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Ace Combat 8: Wings of Theve today!**
+
+---
+**Last updated:** 2026-11-06 18:56:27 UTC
